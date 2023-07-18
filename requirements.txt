@@ -3,3 +3,4 @@ langchain
 requests
 gunicorn
 uvicorn
+ai_talk
