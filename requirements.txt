@@ -1,5 +1,3 @@
 flask
 langchain
 requests
-gunicorn
-uvicorn
